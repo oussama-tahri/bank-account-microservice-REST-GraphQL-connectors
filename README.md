@@ -56,7 +56,7 @@ Pour utiliser GraphQL on doit premierement ajouter la dependance
 <artifactId>spring-boot-starter-graphql</artifactId>
 </dependency>
 ```
-Tout d'abord comme le webservice qui utilise un interface comme Swagger, GraphQL a besoin d'un interface
+Tout d'abord comme le webservice REST qui utilise un interface comme Swagger, GraphQL a besoin d'un interface
 C'est pour cela on doit le creer comme le suivant :
 
 
